@@ -1,1 +1,1 @@
-# Tip_Etcher_Rev_3
+# Au Nano-Tip Etcher, Revision 3
