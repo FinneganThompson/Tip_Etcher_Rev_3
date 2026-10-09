@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Etcher_R2")(type "KiCad")(uri "${KIPRJMOD}/Etcher_R2.pretty")(options "")(descr ""))
+  (lib (name "r3")(type "KiCad")(uri "${KIPRJMOD}/r3.pretty")(options "")(descr ""))
+)
